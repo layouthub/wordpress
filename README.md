@@ -1,2 +1,2 @@
-# wordpress
+# WordPress
 LayoutHub for WordPress CMS
